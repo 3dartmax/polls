@@ -1,0 +1,10 @@
+li a
+{
+    color: green;
+}
+body
+{
+	/*background-color: lightblue;*/
+    /*background: white url("../image/Defense_fx_spycam.png") no-repeat right bottom;*/
+	background: white url("../image/MiniMap_BG.png");
+}
