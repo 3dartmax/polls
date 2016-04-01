@@ -1,0 +1,1 @@
+D:\WorkRoom\Django\tutorial02\myvenv\Scripts\deactivate.bat
